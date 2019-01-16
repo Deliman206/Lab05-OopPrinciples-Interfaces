@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class WaterFowl: Birds
+    public class WaterFowl: Birds
     {
         // Inheritance
         public override bool beak { get; set; } = false;
