@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class Mallard: WaterFowl
+    public class Mallard: WaterFowl
     {
       
         public string Exterior(string exterior, string segmentedBody)

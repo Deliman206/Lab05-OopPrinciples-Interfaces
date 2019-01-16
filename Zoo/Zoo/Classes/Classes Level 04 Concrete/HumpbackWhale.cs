@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    class HumpbackWhale : Whales
+    public class HumpbackWhale : Whales
     {
         public string Exterior(string exterior, string segmentedBody)
         {

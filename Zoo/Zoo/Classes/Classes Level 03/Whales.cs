@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo.Classes
 {
-    abstract class Whales: Mammals
+    public abstract class Whales: Mammals
     {
         // Inheritance
         public override bool fur { get; set; } = false;
